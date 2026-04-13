@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335037242068",
+    "project_id": "easydrive-96485",
+    "storage_bucket": "easydrive-96485.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335037242068:android:154cd3dbd1f3f44d45f941",
+        "android_client_info": {
+          "package_name": "com.example.easydrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335037242068-rhhr7m9ba0pg7lc1mjl71s7o68tjbq1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easydrive",
+            "certificate_hash": "7b77fcaeed5df97a08fff5ae1105c88a5a384c2c"
+          }
+        },
+        {
+          "client_id": "335037242068-liqttd6uj8tetki8su5icsdfjiu39i5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLmd9iCYxSCWoFWUgXUTvMkae3jRrpAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335037242068-liqttd6uj8tetki8su5icsdfjiu39i5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

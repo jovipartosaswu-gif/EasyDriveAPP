@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">EasyDrive</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to\nEasyDrive</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- Onboarding Screen -->
+    <string name="onboarding_title">Lets Start\nA New Experience\nWith Car rental.</string>
+    <string name="onboarding_description">Discover your next adventure with EasyDrive. We\'re here to provide you with a seamless car rental experience. Let\'s get started on your journey.</string>
+    
+    <!-- Login Screen -->
+    <string name="welcome_back">Welcome \nReady to hit the road.</string>
+    <string name="email_phone_hint">Email/Phone Number</string>
+    <string name="password_hint">Password *</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="apple_pay">Apple pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="sign_up_title">Sign Up</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="confirm_password_hint">Confirm Password *</string>
+    <string name="gender_label">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="user_type_label">User Type</string>
+    <string name="renter">Renter</string>
+    <string name="agency">Agency</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    
+    <!-- Home Screen -->
+    <string name="search_hint">Search your dream car...</string>
+    <string name="brands">Brands</string>
+    <string name="best_cars">Best Cars</string>
+    <string name="available">Available</string>
+    <string name="view_all">View All</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="messages">Messages</string>
+    
+    <!-- Splash Screen -->
+    <string name="loading">Loading...</string>
+    
+    <!-- Profile Dialog -->
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="toggle_password">Toggle password visibility</string>
+    
+    <!-- Profile Screen -->
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="general">General</string>
+    <string name="support">Support</string>
+    
+    <!-- Edit Profile Screen -->
+    <string name="save_change">Save Change</string>
+    <string name="edit_photo">Edit Photo</string>
+</resources>
